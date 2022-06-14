@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab1</string>
+
+    <string-array name="typesArray">
+        <item>Gaming</item>
+        <item>Universal</item>
+        <item>Business</item>
+        <item>Protected</item>
+    </string-array>
+</resources>
